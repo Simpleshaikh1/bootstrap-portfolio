@@ -4,15 +4,22 @@
   background-size: cover;
 }
 
+.footer-bg {
+  /* background-image: url("./assets/header-shapes\ mobile.png"); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-top-left-radius: 15%;
+}
+
 .rounded-bottom-start {
   border-bottom-left-radius: 10%;
 }
 
 .rounded-top {
-  border-top-right-radius: 10px;
+  border-top-right-radius: 50px;
 }
 
-.cadding {
+.cading {
   margin-top: 30%;
 }
 
